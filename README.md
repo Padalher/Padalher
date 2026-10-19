@@ -44,10 +44,6 @@ Computational chemistry tools
 - Gaussian
 - ORCA
 GitHub activity
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Padalher&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padalher&layout=compact&theme=default&hide_border=true" alt="Most-used languages" />
-</div>
 
 <!-- Uncomment after configuring the contribution-snake workflow and generating the output branch.
 <div align="center">
